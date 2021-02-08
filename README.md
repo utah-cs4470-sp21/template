@@ -15,7 +15,8 @@ Python (3.9). It correspondingly includes starter files
 `compiler.cpp`, `compiler.java`, and `compiler.py`. Each starter file
 compiles and runs, doing nothing and returning successfully. For each
 language there is also a Makefile: `Makefile_cpp`, `Makefile_java`,
-and `Makefile_py`.
+and `Makefile_py`. Rename the makefile for your language to `Makefile`
+and remove the other two from your repo, you won't need them.
 
 To pick your language, delete the starter files for the other two
 languages. If you want to use a language other than C++, Java, or
